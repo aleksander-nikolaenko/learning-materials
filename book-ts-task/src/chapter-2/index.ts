@@ -1,3 +1,4 @@
+//./node_modules/.bin/tsc
 console.log('Hello TypeScript!');
 let a = 1 + 2;
 let b = a + 3;
